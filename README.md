@@ -1,4 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Description: Dia Landing is a simple landing page template designed to showcase a product or service. It provides a clean and modern design that helps capture the attention of visitors and encourage them to take action.
+Techonologies used: HTML, CSS, SASS, and JS.
+Methodologies: BEM
+- [DEMO LINK]( https://vasyliy22.github.io/Dia-landing/)
